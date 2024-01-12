@@ -16,7 +16,7 @@ b) son relevantes para el negocio
 - tener buenos ratings en los productos vendidos
 ### ¿Qué significa ser relevante para el negocio?
 - tener un número alto de ventas concretadas
-- tener una cantidad de dinero ingresado elevada
+- tener una buen volúmen de ventas
 
 ## Estrategia propuesta
 Usar un modelo de aprendizaje no supervisado para clasificar sellers. Vamos a poder identificar distintos tipos de sellers de acuerdo a las variables de interés. Las variables de interés son las que determinan la reputación y el comportamiento del seller. 
